@@ -1,0 +1,22 @@
+$ git config --global 
+От Vlad Povelytsia всем 07:27 PM
+$ git config --global user.email "[адрес электронной почты]"
+От Vlad Povelytsia всем 07:52 PM
+git add -A
+git commit -m "my first commit"
+От Vlad Povelytsia всем 08:03 PM
+git branch -M main
+От Vlad Povelytsia всем 08:11 PM
+cd название_папки/название_папки
+git status
+От Vlad Povelytsia всем 08:25 PM
+git remote add origin https://github.com/vladpovelitsa/get_lesson_17-10.git
+git remote add origin ССЫЛКА_НА_РЕПОЗИТОРИЙ
+От Vlad Povelytsia всем 08:37 PM
+git remote set-url origin ССЫЛКА_НА_РЕПОЗИТОРИЙ
+От Vlad Povelytsia всем 08:42 PM
+git push -u origin main
+От Roman Herasymenko всем 08:45 PM
+Вам в личку ссылку на репозиторий?
+От Vlad Povelytsia всем 08:49 PM
+https://github.com/vladpovelitsa/get_lesson_17-10
