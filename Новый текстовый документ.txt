@@ -1,4 +1,5 @@
-$ git config --global 
+От Vlad Povelytsia всем 07:21 PM
+$ git config --global user.name "[имя]"
 От Vlad Povelytsia всем 07:27 PM
 $ git config --global user.email "[адрес электронной почты]"
 От Vlad Povelytsia всем 07:52 PM
@@ -20,3 +21,11 @@ git push -u origin main
 Вам в личку ссылку на репозиторий?
 От Vlad Povelytsia всем 08:49 PM
 https://github.com/vladpovelitsa/get_lesson_17-10
+От Vlad Povelytsia всем 09:04 PM
+git pull
+git checkout -b НАЗВАНИЕ_ВЕТКИ
+От Vlad Povelytsia всем 09:24 PM
+КОММИТА'
+cd ../ - папка вверх
+cd css/ - зайти в папку
+
